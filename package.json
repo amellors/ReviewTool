@@ -1,0 +1,20 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "review": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colors": "^1.1.2",
+    "p4-oo": "^2.0.3",
+    "prompt": "^1.0.0"
+  }
+}
