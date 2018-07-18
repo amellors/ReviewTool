@@ -17,3 +17,11 @@ npm install -g
 npm link
 review
 ```
+
+## FAQ
+
+Q: Why aren't my changelists showing up?
+A: Make sure that you have the SWPBL at the beginning of the description in the form of SWPBL-XXXXX
+
+Q: I keep saying "yes", but nothing happens!
+A: Make sure you are in a p4 workspace directory!
